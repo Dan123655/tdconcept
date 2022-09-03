@@ -87,7 +87,7 @@ function App() {
                   className="delete-button"
                   onClick={() => deleteItem(item.id)}
                 >
-                  ❌
+                  x
                 </button>
               </div>
 

@@ -20,7 +20,6 @@ body {
     width: 90%;
     display: flex;
     padding:  2em 0;
-justify-content: space-between;
     text-align: center;
   flex-direction: row;
     /* justify-content: space-between; */
@@ -29,7 +28,7 @@ justify-content: space-between;
 
     flex-shrink: 0;
 flex-flow: row wrap;
-justify-content: space-between;
+justify-content: space-around;
 /* align-items: flex-start; */
 }
 .delete-button{
@@ -45,8 +44,8 @@ margin-bottom: 1rem;}
 
 column{
     
-    width: 30%;
-    height: 2.5rem;
+    width: 40%;
+    height: 4rem;
     background-color: rgb(234, 242, 247);
     font-size: 1rem;
     border: 1px solid rgb(198, 212, 231);
