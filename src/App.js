@@ -62,7 +62,7 @@ function App() {
     <div className="app">
     <div className="container">
       {/* 1. Header  */}
-      <h1>My Todo List</h1>
+      <h1 className="name">My Todo List</h1>
 
       {/* 2. Add new item (input) */}
       <div className="input">

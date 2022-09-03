@@ -6,6 +6,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+  .name{
+    margin-top: 0rem;
+  }
   
   code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -32,20 +35,23 @@ justify-content: space-between;
 .delete-button{
     float: right;
 margin: 0.7em;
+position:sticky;
 }
 h1,
 .input{
     width: 100%;
 
-margin-bottom: 2rem;}
+margin-bottom: 1rem;}
 
 column{
     
     width: 30%;
     height: 2.5rem;
-    background-color: aquamarine;
-    font-size: 1.5rem;
-    border: 2px solid black;
+    background-color: rgb(234, 242, 247);
+    font-size: 1rem;
+    border: 1px solid rgb(198, 212, 231);
+    border-radius: 1em;
+    margin-bottom: 1em;
 }
 @media(max-width:1000px){
     .container{
