@@ -1,0 +1,14 @@
+[
+    {"id":1,
+    "event": "Finish a to do app",
+    "finished": true},
+    {"id":2,
+    "event": "Learn anything besides for loop",
+    "finished": false},
+    {"id":3,
+    "event": "Code two days in a row",
+    "finished": false},
+    {"id":4,
+    "event": "Introduce yourself as a software developer",
+    "finished": true}
+]
