@@ -82,7 +82,7 @@ function App() {
           return (
             <column>
               <div key={item.id} onClick={() => setShowEdit(item.id)}>
-                {item.value.slice(0,9)}
+                {item.value.slice(0,18)}
                 <button
                   className="delete-button"
                   onClick={() => deleteItem(item.id)}
