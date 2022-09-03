@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tdconcept/static/css/main.3fe835bf.css",
+    "main.css": "/tdconcept/static/css/main.72fb70f8.css",
     "main.js": "/tdconcept/static/js/main.389a6dde.js",
     "index.html": "/tdconcept/index.html",
-    "main.3fe835bf.css.map": "/tdconcept/static/css/main.3fe835bf.css.map",
+    "main.72fb70f8.css.map": "/tdconcept/static/css/main.72fb70f8.css.map",
     "main.389a6dde.js.map": "/tdconcept/static/js/main.389a6dde.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fe835bf.css",
+    "static/css/main.72fb70f8.css",
     "static/js/main.389a6dde.js"
   ]
 }
