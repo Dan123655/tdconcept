@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tdconcept/static/css/main.72fb70f8.css",
-    "main.js": "/tdconcept/static/js/main.389a6dde.js",
+    "main.css": "/tdconcept/static/css/main.0b728a36.css",
+    "main.js": "/tdconcept/static/js/main.93860232.js",
     "index.html": "/tdconcept/index.html",
-    "main.72fb70f8.css.map": "/tdconcept/static/css/main.72fb70f8.css.map",
-    "main.389a6dde.js.map": "/tdconcept/static/js/main.389a6dde.js.map"
+    "main.0b728a36.css.map": "/tdconcept/static/css/main.0b728a36.css.map",
+    "main.93860232.js.map": "/tdconcept/static/js/main.93860232.js.map"
   },
   "entrypoints": [
-    "static/css/main.72fb70f8.css",
-    "static/js/main.389a6dde.js"
+    "static/css/main.0b728a36.css",
+    "static/js/main.93860232.js"
   ]
 }
